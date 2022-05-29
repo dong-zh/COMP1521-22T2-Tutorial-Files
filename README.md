@@ -6,4 +6,4 @@ If you see a mistake, please let me know with dongzhu.huang@unsw.edu.au.
 
 Feedback form coming soon!
 
-Each week might have its own `readme.md` with a short summary of that week's topic. Those `readme`s (nor do my tutorials) do *not* cover every examinable topic, so please revise the lectures as well.
+Each week might have its own `readme.md` with a short summary of that week's topic. Those `readme`s don't cover every examinable topic, so please revise the lectures as well.
