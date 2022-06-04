@@ -11,7 +11,7 @@ Every recursive function has 2 parts:
 1. Terminating case - when should the recursion stop?
 2. Recursive call - the function calls itself with slightly different arguments to break the problem down
 
-`printArrayR()` in [`arrayPrint.c`](arrayPrintc) prints the array backwards using recursion.
+`printArrayR()` in [`arrayPrint.c`](arrayPrint.c) prints the array backwards using recursion.
 
 ## Process Address Space
 
