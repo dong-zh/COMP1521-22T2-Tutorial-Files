@@ -17,9 +17,9 @@
   - In this course, we learn MIPSY assembly. It's like raw MIPS assembly but much easier to learn and program in.
   - Instead of `add $6, $2, $5`, we'd write `add $a2, $v0, $a1`
 
-## A Basic Introduction to MIPS Architecture
+## A Basic Introduction to the MIPS Architecture
 
-*Always have [this page](https://cgi.cse.unsw.edu.au/~cs1521/21T3/resources/spim-guide.html) open when you're writing MIPS!*
+*Always have [this page](https://cgi.cse.unsw.edu.au/~cs1521/22T2/resources/mips-guide.html) open when you're writing MIPS!*
 
 ### How to Run a MIPS Program
 
