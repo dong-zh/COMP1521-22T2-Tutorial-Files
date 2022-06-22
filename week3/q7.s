@@ -22,7 +22,7 @@ main__numbers_lt_0:
 main__numbers_phi:
 main__i_step:
 	add	$t0, $t0, 1
-	j	main__i_cond
+	b	main__i_cond
 main__i_end:
 
 	jr	$ra

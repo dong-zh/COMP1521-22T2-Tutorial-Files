@@ -100,7 +100,7 @@
             blt     $t0, 42, x_lt_42
     x_ge_42:
             li      $t0, 0
-            j       x_end
+            b       x_end
     x_lt_42:
             li      $t0, 1
     x_end:

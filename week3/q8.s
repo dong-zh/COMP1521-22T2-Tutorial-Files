@@ -30,7 +30,7 @@ main__i_body:
 	sw	$t1, numbers($t4)	# numbers[9 - i] = x
 main__i_step:
 	add	$t0, $t0, 1
-	j	main__i_cond
+	b	main__i_cond
 main__i_end:
 
 	jr	$ra
