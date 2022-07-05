@@ -20,8 +20,8 @@ The bitwise operations that we use are:
 - OR (`|`)
 - XOR (`^`)
 - NOT (`~`)
-- Left shift `<<`
-- Right shift `>>`
+- Left shift (`<<`)
+- Right shift (`>>`)
 
 Please see the full truth tables in [drawings.pdf](drawings.pdf). Useful rules we derive from the truth tables are:
 
