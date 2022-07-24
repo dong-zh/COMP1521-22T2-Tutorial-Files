@@ -1,0 +1,587 @@
+aMoNg uS[C] iS A 2018 oNlInE MuLtIpLaYeR SoCiAl dEdUcTiOn gAmE DeVeLoPeD
+AnD PuBlIsHeD By aMeRiCaN GaMe sTuDiO InNeRsLoTh. ThE GaMe wAs iNsPiReD By
+tHe pArTy gAmE MaFiA AnD ThE ScIeNcE FiCtIoN HoRrOr fIlM ThE ThInG. tHe
+gAmE AlLoWs fOr cRoSs-pLaTfOrM PlAy, FiRsT ReLeAsEd oN IoS AnD AnDrOiD
+DeViCeS In jUnE 2018 aNd oN WiNdOwS LaTeR ThAt yEaR In nOvEmBeR. tHe
+gAmE WaS ThEn pOrTeD To tHe nInTeNdO SwItCh iN DeCeMbEr 2020, aNd oN ThE
+PlAyStAtIoN 4, pLaYsTaTiOn 5, XbOx oNe aNd xBoX SeRiEs x/s iN DeCeMbEr
+2021. wHiLe tHe gAmE WaS InItIaLlY ReLeAsEd iN 2018 tO LiTtLe mAiNsTrEaM
+AtTeNtIoN, iT ReCeIvEd a mAsSiVe iNfLuX Of pOpUlArItY In 2020 DuE To
+mAnY WeLl-kNoWn tWiTcH StReAmErS AnD YoUtUbErS PlAyInG It. A SePaRaTe
+vR VeRsIoN Of tHe gAmE, aMoNg uS Vr, WiLl bE ReLeAsEd fOr mEtA QuEsT 2,
+sTeAmVr, AnD PlAyStAtIoN Vr, DeVeLoPeD By sChElL GaMeS.
+
+AmOnG Us tAkEs pLaCe iN A SpAcE-ThEmEd sEtTiNg wHeRe pLaYeRs lOoK LiKe
+cOlOrFuL ArMlEsS CaRtOoN AsTrOnAuTs; HoWeVeR, sInCe tHe rElEaSe oF "tHe
+sKeLd" SpAcEsHiP, tHrEe oThEr mApS HaVe bEeN AdDeD In lAtEr yEaRs: ThE
+SkYsCrApEr "MiRa hQ", ThE "pOlUs" PlAnEtArY StAtIoN, aNd "ThE AiRsHiP"
+(BaSeD On iNfIlTrAtInG ThE AiRsHiP FrOm tHe hEnRy sTiCkMiN SeRiEs, AlSo
+dEvElOpEd bY InNeRsLoTh). eAcH PlAyEr tAkEs oN OnE Of tWo rOlEs—mOsT
+ArE CrEwMaTeS, bUt a sMaLl nUmBeR PlAy iMpOsToRs—wHiCh dOeS NoT AlTeR
+ThEiR ApPeArAnCe.[D] tHe gOaL Of tHe cReWmAtEs iS To eItHeR IdEnTiFy aNd
+vOtE OuT ThE ImPoStOrS, oR To cOmPlEtE AlL ThE TaSkS ArOuNd tHe mAp;
+ThE GoAl oF ThE ImPoStOrS Is tO CoVeRtLy sAbOtAgE ThE MiSsIoN EiThEr
+bY KiLlInG ThE CrEwMaTeS BeFoRe tHeY CoMpLeTe aLl tHeIr tAsKs oR By
+tRiGgErInG A DiSaStEr tHaT Is nOt rEsOlVeD In tImE.
+
+
+cOnTeNtS
+1	GaMePlAy
+2	dEvElOpMeNt aNd rElEaSe
+2.1	eArLy dEvElOpMeNt
+2.2	cAnCeLeD SeQuEl aNd oNgOiNg uPdAtEs
+2.3	cOnSoLe rElEaSeS
+2.4	OcToBeR 2020 aNd jAnUaRy 2021 HaCkS
+3	PoPuLaRiTy
+3.1	2020 SpIkE
+3.2	MeMeS AnD MoDs
+3.3	mAnGa
+4	rEcEpTiOn
+4.1	sAlEs
+4.2	aWaRdS
+4.3	LeGaCy
+5	sEe aLsO
+6	NoTeS
+7	ReFeReNcEs
+8	eXtErNaL LiNkS
+GaMePlAy
+a wHiTe-sUiTeD AsTrOnAuT NaMeD "bUdDy" (tHe pLaYeR) sTaNdS In fRoNt
+oF An uNnAmEd bLuE-SuItEd cOrPsE. tHe rOoM ThEy aRe iN Is lAbElEd
+"AdMiN". In tHe hAlLwAy, SlIgHtLy oBsCuReD By tHe sIgHt lInE MeChAnIc,
+Is a pInK-SuItEd aStRoNaUt nAmEd "ChUm". iN ThE UpPeR-LeFt cOrNeR Of tHe
+pLaYeR'S ScReEn, ThErE Is a fAkE LiSt oF TaSkS As wElL As tHe pLaYeR'S
+GoAl: To kIlL AlL CrEwMaTeS. tHe pLaYeR AlSo hAs tHe oPtIoN To uSe,
+RePoRt, SaBoTaGe, AnD KiLl. As tHe pLaYeR HaS JuSt kIlLeD, tHe bUtToN
+Is oN CoOlDoWn aNd fAdEd.
+In tHiS GaMePlAy sCrEeNsHoT Of tHe oRiGiNaL MaP, tHe sKeLd, ThE WhItE
+ImPoStOr hAs jUsT KiLlEd tHe bLuE CrEwMaTe iN ThE CeNtRaLlY LoCaTeD AdMiN
+RoOm. BeCaUsE Of tHe vIsIoN MeChAnIc fOr aMoNg uS, tHe pInK PlAyEr iS
+PaRtIaLlY ObScUrEd iN ThE WhItE PlAyEr's fIeLd oF ViSiOn. AnY PlAyEr
+cAn rEpOrT ThE DeAd bOdY AnD TrIgGeR A MeEtInG.
+aMoNg uS Is a mUlTiPlAyEr gAmE FoR FoUr tO FiFtEeN PlAyErS (pReViOuSlY
+FoUr tO TeN PlAyErS), AlThOuGh rEcOmMeNdEd fOr aT LeAsT FiVe.[11] Up tO
+ThReE PlAyErS ArE RaNdOmLy[12] aNd sEcReTlY ChOsEn tO Be tHe iMpOsToR(S)
+eAcH RoUnD. aS Of 2021, a rOuNd cAn tAkE PlAcE On oNe oF FoUr mApS: a
+sPaCeShIp cAlLeD "tHe sKeLd"; a hEaDqUaRtErS BuIlDiNg cAlLeD "mIrA Hq";
+a pLaNeT BaSe cAlLeD "pOlUs";[13] oR An aIrShIp bAsEd oN InNeRsLoTh's
+hEnRy sTiCkMiN SeRiEs cAlLeD "tHe aIrShIp".[14][15]
+
+ThE ImPoStOr(s) WiN(S) oNe oF TwO WaYs: EiThEr bY KiLlInG MoSt oF ThE CrEw
+(To tHe pOiNt tHaT ThEy'rE EqUaL In nUmBeR) oR By sAbOtAgInG A CrItIcAl
+sYsTeM On tHe mAp (PrOvIdEd tHe cReWmAtEs dOn't rEsOlVe iT In tImE). ThE
+CrEwMaTeS LiKeWiSe cAn wIn oNe oF TwO WaYs: EiThEr bY CoMpLeTiNg aLl
+tAsKs oR By iDeNtIfYiNg aNd eJeCtInG AlL ImPoStOrS.[13] gAmEs cAn aLsO
+EnD By pLaYeRs qUiTtInG ThE MaTcH If dOiNg sO FuLfIlLs aNy wIn cOnDiTiOn
+(If a cReWmAtE QuItS ThE GaMe, ThEiR TaSkS ArE AuToMaTiCaLlY CoNsIdErEd
+cOmPlEtEd).[16][17][18]
+
+At tHe sTaRt oF ThE GaMe, CrEwMaTeS ArE AsSiGnEd "TaSkS" tO CoMpLeTe
+aRoUnD ThE MaP (iN ThE FoRm oF MiNiGaMeS, mInIpUzZlEs, AnD SiMpLe
+tOgGlEs), mOsTlY CoNsIsTiNg oF MaInTeNaNcE WoRk oN ViTaL SyStEmS SuCh aS
+FiXiNg wIrEs aNd dOwNlOaDiNg dAtA.[19] iMpOsToRs aRe gIvEn a fAkE LiSt
+oF SuGgEsTeD TaSkS To bLeNd iN WiTh cReWmAtEs. HoWeVeR, tHeY CaNnOt
+lEgItImAtElY PeRfOrM TaSkS AnD CaN OnLy pReTeNd tO Be dOiNg aNy oF
+ThE TaSkS On tHe sHiP. iMpOsToRs, HoWeVeR, cAn sAbOtAgE ViTaL SyStEmS
+(sUcH As tHe sKeLd's oXyGeN SuPpLy), cLoSe tHe dOoRs tO RoOmS, qUiCkLy
+aNd cOvErTlY TrAvEl tHrOuGh tHe vEnTiLaTiOn sYsTeM (cOmMoNlY ReFeRrEd tO
+As "VeNtInG"), aNd kIlL CrEwMaTeS WhEn sTaNdInG NeAr tHeM. tO HeLp tHe
+cReWmAtEs iDeNtIfY ImPoStOrS, tHeRe aRe vArIoUs sUrVeIlLaNcE SyStEmS On
+eAcH MaP, sUcH As sEcUrItY CaMeRaS AnD An aDmIn sYsTeM On tHe sKeLd,[20]
+A DoOrLoG SyStEm wItH SeNsOrS In mIrA Hq,[21] AnD A ViTaLs iNdIcAtOr
+iN PoLuS.[13] cReWmAtEs mAy aLsO CoNfIrM ThEiR IdEnTiTy tHrOuGh "ViSuAl
+tAsKs" (tAsKs tHaT HaVe aNiMaTiOnS WhIcH PlAy fOr oThEr pLaYeRs), wHiCh
+cAnNoT Be fAkEd bY ImPoStOrS.[22]
+
+If a cReWmAtE Is kIlLeD Or aNy pLaYeR Is vOtEd oUt aNd eJeCtEd, ThEy
+bEcOmE A GhOsT. gHoStS CaN PaSs tHrOuGh wAlLs, WaTcH OtHeR PlAyErS'
+aCtIvItIeS, aNd sEe aNd cHaT WiTh oThEr gHoStS.[18] lIvInG PlAyErS HaVe
+a lImItEd cOnE Of vIsIoN;[23] gHoStS Do nOt.[24] MoReOvEr, GhOsTs cAnNoT
+CoMmUnIcAtE WiTh lIvInG PlAyErS Or bE SeEn bY ThEm. GhOsTs hElP ThEiR
+LiViNg tEaMmAtEs bY CoMpLeTiNg tHeIr tAsKs (As a cReWmAtE) oR PeRfOrMiNg
+vArIoUs aCtS Of sAbOtAgE (aS An iMpOsToR).[13]
+
+aNy lIvInG PlAyEr mAy cAlL A GrOuP MeEtInG By rEpOrTiNg a dEaD BoDy,
+Or bY PrEsSiNg tHe eMeRgEnCy mEeTiNg bUtToN On tHe mAp aT AnY TiMe
+(ExCePt dUrInG MaJoR SaBoTaGeS, wHeN EmErGeNcY MeEtInGs cAnNoT Be cAlLeD,
+bUt dEaD BoDiEs cAn sTiLl bE RePoRtEd).[18][25][26] dUrInG A MeEtInG,
+pLaYeRs dIsCuSs wHo tHeY BeLiEvE Is aN ImPoStOr bAsEd oN ThE AvAiLaBlE
+EvIdEnCe. ImPoStOrS CaN Be iDeNtIfIeD BeYoNd aLl rEaSoNaBlE DoUbT If tHeY
+ArE SeEn vEnTiNg oR KiLlInG. a pLaYeR MaY Be sUsPeCtEd fOr mAnY OtHeR
+ReAsOnS ThOuGh. HoWeVeR, aLl tHe pLaYeRs fOrM A SoRt oF JuRy aNd mUsT
+WeIgH ThE VeRaCiTy oR VaLuE Of eAcH OtHeR'S StAtEmEnTs aNd qUeStIoNs
+dUrInG ThE MeEtInG. a pLuRaLiTy vOtE Is hElD, aNd iF A PlUrAlItY Is
+oBtAiNeD, tHe pLaYeR WhOm tHe mOsT CrEwMaTeS VoTeD Is eJeCtEd fRoM ThE
+MaP AnD ThEy bEcOmE A GhOsT, uNlEsS ThE MaJoRiTy oF ThE CrEwMaTeS ChOoSe
+tO SkIp vOtE Or tHeRe iS A TiE VoTe.[19][18] PlAyErS CaN CoMmUnIcAtE In
+a bUiLt-iN TeXt cHaT (wItH SoMe pReDeFiNeD PhRaSeS FoR PhOnE UsErS),[19]
+BuT OnLy dUrInG MeEtInGs, AnD OnLy iF ThEy aRe aLiVe (ThOuGh gHoStS CaN
+SpEaK WiTh oNe aNoThEr aT AnY TiMe).[13][18][23] wHiLe tHe gAmE DoEs
+nOt hAvE A BuIlT-In vOiCe cHaT SyStEm, It iS CoMmOn fOr pLaYeRs tO UsE
+ExTeRnAl pRoGrAmS SuCh aS DiScOrD,[27][28][29] oR To cOnVeRsE ReGuLaRlY
+If tHeY ArE In cLoSe pHySiCaL PrOxImItY To oNe aNoThEr. In cAsE PlAyErS
+CaN HeAr eAcH OtHeR'S VoIcEs, ThE GaMe rEmInDs tHeM To nOt sPeAk eXcEpT
+DuRiNg mEeTiNgS.
+
+In nOvEmBeR 2021, AdDiTiOnAl rOlEs wErE MaDe aVaIlAbLe tO PlAyErS
+ExTeNdInG BeYoNd tHe sTaNdArD CrEwMaTe oR ImPoStOr rOlEs. CrEwMaTeS
+CaN AlSo bE EnGiNeErS, sCiEnTiStS, oR GuArDiAn aNgElS. eNgInEeRs aLlOw
+cReWmAtEs tO TrAvEl tHrOuGh vEnTs lIkE ImPoStOrS CaN, aLbEiT To a
+lImItEd cApAcItY. sCiEnTiStS CaN ChEcK ViTaLs aT AnY TiMe tO SeE If
+aNy pLaYeR HaS BeEn kIlLeD ReCeNtLy. CrEwMaTeS WhO BeCoMe gHoStS CaN
+BeCoMe gUaRdIaN AnGeLs, WhIcH CaN TeMpOrArIlY PrOtEcT LiViNg pLaYeRs
+fRoM BeInG KiLlEd. ImPoStOrS LiKeWiSe cAn bE ShApEsHiFtErS, aLlOwInG
+ThEm tO TeMpOrArIlY MoRpH InTo oThEr pLaYeRs.
+
+iN EaCh gAmE'S LoBbY, vArIoUs oPtIoNs cAn bE AdJuStEd tO CuStOmIzE
+AsPeCtS Of gAmEpLaY, sUcH As pLaYeR MoVeMeNt sPeEd, ThE AlLoWeD NuMbEr oF
+EmErGeNcY MeEtInGs, NuMbEr oF TaSkS, iF ThErE WiLl bE "vIsUaL TaSkS",[30]
+Or wHeThEr oR NoT An iMpOsToR Is rEvEaLeD AfTeR BeInG VoTeD OfF.[31]
+tHeRe aRe aLsO MaNy cOsMeTiC OpTiOnS, iNcLuDiNg sPaCeSuIt cOlOrS,
+sKiNs, HaTs, AnD PeTs,[32][33] SoMe oF WhIcH ArE PaId dOwNlOaDaBlE
+CoNtEnT.[e][5][7][23]
+
+dEvElOpMeNt aNd rElEaSe
+eArLy dEvElOpMeNt
+aMoNg uS ReLeAsE TiMeLiNe
+fOr vArIoUs pLaTfOrMs
+2018	IoS/AnDrOiD
+WiNdOwS
+2019	"MiRa hQ"
+"PoLuS"
+2020	NiNtEnDo sWiTcH
+2021	"ThE AiRsHiP"
+pLaYsTaTiOn 4, PlAyStAtIoN 5,
+xBoX OnE AnD XbOx sErIeS X/S
+TbA	AmOnG Us vR
+AmOnG Us wAs iNsPiReD By tHe lIvE PaRtY GaMe mAfIa,[5][35] aNd tHe
+sCiEnCe fIcTiOn hOrRoR FiLm tHe tHiNg.[36] ThE IdEa fOr tHe cOnCePt
+wAs oRiGiNaLlY GiVeN By mArCuS BrOmAnDeR, cO-FoUnDeR Of iNnErSlOtH,
+wHo hAd pLaYeD MaFiA SiNcE He wAs a kId. In tHe oRiGiNaL GaMe, FuNcTiOn
+cArDs wErE DeAlT AnD PlAyErS WaNdErEd aRoUnD A HoUsE, aImLeSsLy, WhIlE
+AnOtHeR PeRsOn sEcReTlY KiLlEd tHe pLaYeRs, DrAwInG A FiNgEr aRoUnD
+ThEiR NeCk. MoSt oF ItS MeChAnIcS WeRe sTiLl pReSeNt iN AmOnG Us, BuT
+ThE TeAm wAnTeD To "AlLeViAtE ThE NeEd tO CrEaTe aN InTeReStInG HoMe
+mOdEl aNd hAvE SoMeOnE WaNdErInG ArOuNd iN A BoRiNg eNvIrOnMeNt". sO,
+tHeY DeCiDeD ThAt tHe gAmE WoUlD Be sPaCe tHeMeD AnD AlSo aDdEd tAsKs,
+WhIcH, aCcOrDiNg tO FoReSt wIlLaRd, PrOgRaMmEr aT InNeRsLoTh, "cHaNgEd
+sEvErAl tImEs dUrInG DeVeLoPmEnT".[36][37]
+
+dEvElOpMeNt bEgAn iN NoVeMbEr 2017.[37] tHe gAmE WaS InItIaLlY InTeNdEd tO
+Be a mObIlE-OnLy lOcAl mUlTiPlAyEr gAmE WiTh a sInGlE MaP.[38] bRoMaNdEr
+pAuSeD DeVeLoPmEnT On iNnErSlOtH'S OtHeR GaMe, ThE HeNrY StIcKmIn
+cOlLeCtIoN, iN OrDeR To bUiLd aMoNg uS' fIrSt mAp, ThE SkElD.[39]
+wHeN ThEy bEgAn dEvElOpInG ThE FiRsT MaP, tHeY InTeNdEd tHaT ThE ShIp
+wAs aLwAyS In cRiSiS AnD ThAt tHe iMpOsToRs cOuLd dO TaSkS. hOwEvEr,
+ThEy fOuNd tHiS SeTuP "sTrEsSfUl" AnD DeCiDeD ThAt iT "[WoUlDn't lEaVe]
+MuCh tImE FoR DeTeCtIvE WoRk aNd iNfOrMeD MeEtInG CoNvErSaTiOnS".[36][37]
+WiLlArD DeScRiBeD PlAyTeStInG As pAiNfUl aNd fRuStRaTiNg, As tHe gAmE
+WoUlD BrEaK DoWn dUrInG SeSsIoNs fOrCiNg hIm tO SeNd pLaYtEsTeRs nEw
+bUiLdS OfF Of gOoGlE PlAy. ThE TeAm tEsTeD ThE GaMe wItH 8 Of tHeIr
+fRiEnDs aNd nEvEr tEsTeD ThE GaMe wItH 9 Or tHe mAxImUm oF 10 pLaYeRs.[39]
+ThE GaMe wAs dEvElOpEd uSiNg tHe uNiTy eNgInE.[40]
+
+ThE GaMe wAs rElEaSeD In jUnE 2018 tO AnDrOiD AnD IoS UnDeR ThE ApPiD
+Of "SpAcEmAfIa".[5][41] ShOrTlY AfTeR ReLeAsE, aMoNg uS HaD An aVeRaGe
+pLaYeR CoUnT Of 30 To 50 CoNcUrReNt pLaYeRs.[30] BrOmAnDeR BlAmEd tHe
+gAmE'S PoOr rElEaSe oN InNeRsLoTh bEiNg "ReAlLy bAd aT MaRkEtInG".[38]
+ThE TeAm nEaRlY AbAnDoNeD ThE PrOjEcT MuLtIpLe tImEs, BuT CoNtInUeD
+WoRk oN It dUe tO A "sMaLl bUt vOcAl pLaYeR BaSe",[42] aDdInG In oNlInE
+MuLtIpLaYeR, nEw tAsKs, AnD CuStOmIzAtIoN OpTiOnS.[42] tHe gAmE WaS
+ReLeAsEd oN StEaM On nOvEmBeR 16, 2018.[38][43] CrOsS-PlAtFoRm pLaY
+WaS SuPpOrTeD UpOn rElEaSe oF ThE StEaM VeRsIoN.[44][45] oRiGiNaLlY,
+tHe gAmE HaD No aUdIo tO AvOiD ReVeAlInG HiDdEn iNfOrMaTiOn iN A LoCaL
+SeTtInG,[f] AnD WiLlArD MiXeD SoUnDs fRoM NuMeRoUs sOuNd pAcKs tO CoMpOsE
+ThE SfX DuRiNg tHe gAmE'S StEaM ReLeAsE.[39]
+
+On aUgUsT 8, 2019, iNnErSlOtH ReLeAsEd a sEcOnD MaP, mIrA Hq,[46][47]
+A "tIgHtLy pAcKeD HeAdQuArTeRs rOuGhLy tHe sIzE Of tHe sKeLd." a tHiRd
+mAp, PoLuS, wAs aDdEd oN NoVeMbEr 12, 2019, aNd iS SeT In a rEsEaRcH
+StAtIoN.[46][48] tHe fOuRtH MaP, tHe aIrShIp, WaS ReLeAsEd oN MaRcH 31,
+2021, AnD Is bAsEd oN A LoCaTiOn iN ThE HeNrY StIcKmIn uNiVeRsE.[14][15]
+mIrA Hq aNd pOlUs oRiGiNaLlY CoSt pLaYeRs uS$4 ViA In-aPp pUrChAsE. tHeIr
+pRiCeS WeRe rEdUcEd tO Us$2 oN JaNuArY 6, 2020, tHeN MaDe fReE On jUnE
+11, 2020.[49] WhIlE ThE MaP PaCkS ArE StIlL AvAiLaBlE FoR PuRcHaSe oN AlL
+PlAtFoRmS, tHeY NoW OnLy pRoViDe tHe pLaYeR ThE SkInS ThAt wErE BuNdLeD
+WiTh tHe mApS.[50] aCcOrDiNg tO PrOgRaMmEr fOrEsT WiLlArD, tHe tEaM
+"sTuCk wItH [tHe gAmE] a lOt lOnGeR ThAn wE PrObAbLy sHoUlD HaVe fRoM
+A PuRe bUsInEsS StAnDpOiNt", pUtTiNg oUt rEgUlAr uPdAtEs tO ThE GaMe
+aS OfTeN As oNcE PeR WeEk. ThIs lEd tO A StEaDy iNcReAsE In pLaYeRs,
+CaUsInG ThE GaMe's pLaYeR BaSe tO SnOwBaLl. BrOmAnDeR AtTrIbUtEd tHiS
+To tHe sTuDiO HaViNg eNoUgH SaViNgS To kEeP WoRkInG On tHe gAmE EvEn
+wHiLe iT WaS NoT SeLlInG PaRtIcUlArLy wElL.[38]
+
+CaNcElEd sEqUeL AnD OnGoInG UpDaTeS
+In aUgUsT 2020, ThE TeAm sHiFtEd fOcUs oNtO A SeQuEl, AmOnG Us
+2.[6][7][8][9] DuRiNg tHiS TiMe, FoReSt wIlLaRd aNd aMy lIu cOnTiNuEd
+tO UpDaTe aMoNg uS, iNcReAsInG ThE MaXiMuM PlAyEr bAsE, aDdInG FoUr
+sErVeRs aNd tHrEe rEgIoNs,[51] AnD ImPlEmEnTiNg lOnGeR MuLtIpLaYeR CoDeS
+To sUpPoRt mOrE CoNcUrReNt gAmEs.[52] On sEpTeMbEr 23, 2020, tHe tEaM
+CaNcElEd tHe sEqUeL, iNsTeAd oPtInG To aDd aLl cOnTeNt iNtEnDeD FoR ThE
+SeQuEl tO ThE OrIgInAl aMoNg uS, dUe tO "hOw mAnY PeOpLe [WeRe] EnJoYiNg
+[ThE OrIgInAl gAmE]".[53][54][55] hOwEvEr, InNeRsLoTh dEeMeD ThE GaMe's
+cOdEbAsE "oUtDaTeD AnD NoT BuIlT To sUpPoRt aDdInG So mUcH NeW CoNtEnT",
+So tHe tEaM MaDe pLaNs tO ReWoRk tHe gAmE'S CoRe cOdE To eNaBlE AdDiNg
+nEw fEaTuReS.[55] tHe tEaM SuBsEqUeNtLy aNnOuNcEd tHeIr pLaNs tO FiX
+ThE GaMe's sErVeR IsSuEs aNd wIdEsPrEaD ChEaTiNg pRoBlEm,[56][57][58]
+As wElL As aDd a sYsTeM FoR BaNnInG DiSrUpTiVe pLaYeRs.[59] In oCtObEr
+2020, cOlOrBlInD SuPpOrT FoR ThE "wIrEs" TaSk wAs aDdEd tO ThE AmOnG Us
+bEtA On sTeAm, As wElL As sOmE PrEvIoUsLy uNaNnOuNcEd lObBy cUsToMiZaTiOn
+oPtIoNs.[60][61] As-oF-YeT UnImPlEmEnTeD FeAtUrEs iNcLuDe a fIfTh mAp,
+ThE ShErIfF RoLe, AnD NeW GaMe mOdEs.[53][54][59][62][63]
+
+iN MiD-FeBrUaRy 2021, tHe gAmE AdDeD A FeAtUrE CaLlEd qUiCkChAt, WhIcH
+RePlAcEs tHe sTaNdArD ChAt iNtErFaCe wItH A SeRiEs oF PrEsEt pHrAsEs
+tHaT PlAyErS MuSt pIcK FrOm. PlAyErS UnDeR ThE AgE Of 13 ArE ReQuIrEd
+tO UsE QuIcKcHaT, bUt tHoSe oVeR 13 aRe aLsO AlLoWeD To uSe fReE ChAt,
+WhIcH AlLoWs tHeM To tYpE OrIgInAl mEsSaGeS.[64][65] fIrSt aNnOuNcEd
+aT ThE GaMe aWaRdS 2020, ThE AiRsHiP MaP WaS ReLeAsEd oN MaRcH 31,
+2021.[14][15] ThE AiRsHiP FeAtUrEs mUlTiPlE FlOoRs, CoNtRaPtIoNs, TaSkS,
+aNd "MoRe".[66][67] iN AdDiTiOn, GaMe aWaRdS PrEsEnTeR GeOfF KeIgHlEy's
+fAcE WaS AdDeD As a sKiN. tHe mAp iTsElF Is bAsEd uPoN ThE HeNrY StIcKmIn
+sErIeS'S ToPpAt cLaN AiRsHiP.[68] iNnErSlOtH AlSo sTaTeD ThAt tHe mAp
+wOuLd bE FrEe tO AlL PlAyErS.[69][15] iT AlSo fEaTuReS A SkIn bUnDlE ThAt
+iNcLuDeS HeNrY StIcKmIn-tHeMeD CoSmEtIc tHaT CaN Be bOuGhT On sTeAm.[15]
+
+tHe aCcOuNtS SyStEm wAs iMpLeMeNtEd aLoNg wItH ThE UpDaTe, AnD It
+aLlOwS PlAyErS To rEpOrT PlAyErS ThAt aRe nOt fOlLoWiNg iNnErSlOtH'S
+CoDe oF CoNdUcT In oRdEr tO MaKe tHe gAmE A WeLcOmInG AnD ReSpEcTfUl
+pLaCe. PuNiShMeNt rAnGeS FrOm tEmPoRaRy tO PeRmAnEnT BaNs. ThEy aLsO
+StAtEd tHaT RePoRtS WoUlD Be vIeWeD MaNuAlLy aNd nOt bY BoTs, ThAt
+aCcOuNt cReAtIoNs wOuLd bE ReQuIrEd iF PlAyErS WaNt tO UsE FrEe cHaT
+Or tO CuStOmIzE ThEiR NiCkNaMeS, aNd tHaT PeOpLe uNdEr tHe aGe oF 13
+wOuLd nEeD ThEiR PaReNtS' pErMiSsIoN To cReAtE An aCcOuNt. ImPlEmEnTiNg
+aN AcCoUnT SyStEm aLsO AlLoWeD InNeRsLoTh tO AdD AcCoUnT LiNkInG AnD A
+FrIeNdInG SyStEm iN FuTuRe uPdAtEs.[70][71] InNeRsLoTh lAtEr rEvEaLeD
+On tHe gAmE'S OfFiCiAl tWiTtEr aCcOuNt a nEw cOlOr tO ThE GaMe, RoSe,
+WhIcH WaS InClUdEd iN ThE GaMe's nExT UpDaTe aLoNg wItH FiVe oThEr cOlOrS:
+cOrAl, TaN, gRaY, mArOoN, aNd bAnAnA, wHiCh wErE ReVeAlEd dUrInG SuMmEr
+gAmE FeSt oN JuNe 10, 2021, aLoNgSiDe oThEr uPcOmInG CoNtEnT, iNcLuDiNg a
+fIfTh mAp, NeW HiDe & sEeK GaMe mOdE, aNd nEw rOlEs sUcH As sHeRiFf aNd
+sCiEnTiSt.[62][63] ThE NeW CoLoRs, AlOnG WiTh 15 PlAyEr lObBy sUpPoRt,
+NeW MeEtInG ScReEn aNd rEvAmP At tHe gAmE'S DeSiGn, WaS ReLeAsEd oN JuNe
+15, 2021, dUrInG ThE GaMe's 3Rd aNnIvErSaRy.[11]
+
+oN JuLy 7, 2021, InNeRsLoTh rElEaSeD A MiNoR UpDaTe tHaT AdDs a nEw
+tAsK, "ClEaN VeNt", wHiCh iNvOlVeS ThE CrEwMaTe cLeAnInG A SpEcIfIc
+vEnT, pReVeNtInG ImPoStOrS (aNd aS Of tHe nOvEmBeR 9 UpDaTe, EnGiNeErS)
+fRoM UsInG It, As wElL As sOmE IcOn cHaNgEs.[72] On nOvEmBeR 9, 2021, a
+mAjOr uPdAtE WaS ReLeAsEd tHaT InTrOdUcEd fOuR NeW RoLeS (sHaPeShIfTeR,
+eNgInEeR, sCiEnTiSt, AnD GuArDiAn aNgEl), aChIeVeMeNtS, a lEvEl sYsTeM,
+cOnTrOlLeR SuPpOrT, cUsToM KeYbInDs, ViSoR CoSmEtIcS, cOsMeTiC BuNdLeS
+CaLlEd "CoSmIcUbEs", vArIoUs iN-GaMe cUrReNcIeS, aNd a mAjOr rEvAmP To
+tHe iN-GaMe sToRe.[73] On mArCh 31, 2022, a fRiEnDiNg sYsTeM WaS AdDeD,
+wHiCh aLlOwS PlAyErS To sEe wHo tHeY ReCeNtLy pLaYeD WiTh, SeNd aNd
+rEcEiVe fRiEnD ReQuEsTs, SeNd aNd rEcEiVe lObBy iNvItEs, As wElL As tHe
+aBiLiTy tO BlOcK PeOpLe.[74]
+
+dUrInG ThE GaMe aWaRdS 2021, AmOnG Us vR WaS AnNoUnCeD FoR StEaMvR,
+pLaYsTaTiOn vR, aNd tHe mEtA QuEsT 2, dEvElOpEd bY ScHeLl gAmEs.[75]
+DuRiNg tHe mEtA QuEsT ShOwCaSe oN ApRiL 20, 2022, An aPpRoXiMaTe rElEaSe
+dAtE WaS OfFiCiAlLy aNnOuNcEd, WiTh tHe gAmE CoMiNg oUt aRoUnD ThE
+HoLiDaYs oF 2022.[76]
+
+cOnSoLe rElEaSeS
+AmId iTs pOpUlArItY, iNnErSlOtH CoNsIdErEd rElEaSiNg tHe gAmE To
+pLaYsTaTiOn 4 aNd xBoX OnE CoNsOlEs, BuT EnCoUnTeReD A PrObLeM
+In iMpLeMeNtInG PlAyEr cOmMuNiCaTiOn, SiNcE StAnDaRd tExT-BaSeD Or
+vOiCe-bAsEd cHaT SeEmEd uNuSaBlE. tHeY CoNsIdErEd a sYsTeM SiMiLaR To tHe
+"QuIcK CoMmS" sYsTeM FrOm rOcKeT LeAgUe, As wElL As tHe pOsSiBiLiTy oF
+DeVeLoPiNg aN EnTiReLy nEw cOmMuNiCaTiOn sYsTeM FoR ThE GaMe.[27][28]
+VeRsIoNs oF ThE GaMe fOr xBoX CoNsOlEs wErE LaTeR AnNoUnCeD.[77]
+
+AmOnG Us wAs rElEaSeD FoR ThE NiNtEnDo sWiTcH On dEcEmBeR 15, 2020, ThE
+SaMe dAy iT WaS AnNoUnCeD DuRiNg nInTeNdO DiReCt iNdIe wOrLd sHoWcAsE. tHe
+sWiTcH VeRsIoN SuPpOrTs cRoSs-pLaTfOrM PlAy wItH ThE MoBiLe aNd wInDoWs
+vErSiOnS.[78] tHiS PoRt wAs pUbLiShEd bY PlAy eVeRyWaRe.[79] UpOn rElEaSe,
+ThE SwItCh vErSiOn hAd aN ExPlOiT To aCcEsS ThE AiRsHiP PrIoR To iTs
+oFfIcIaL ReLeAsE In eArLy 2021.[80] tHe eXpLoIt wAs fIxEd tWo dAyS AfTeR
+ReLeAsE In tHe sWiTcH VeRsIoN'S FiRsT UpDaTe.[81][82]
+
+aMoNg uS WaS ReLeAsEd dIgItAlLy fOr pLaYsTaTiOn 4, PlAyStAtIoN 5,
+xBoX OnE AnD XbOx sErIeS X/S CoNsOlEs oN DeCeMbEr 14, 2021, aLoNg wItH
+ItS ReLeAsE On tHe xBoX GaMe pAsS FoR CoNsOlE. tHeSe vErSiOnS WiLl
+sUpPoRt cRoSs-pLaTfOrM PlAy wItH ExIsTiNg wInDoWs, SwItCh, AnD MoBiLe
+vErSiOnS. uNiQuE To tHe pLaYsTaTiOn pOrTs aRe sPeCiAl cUsToMiZaTiOn
+oPtIoNs bAsEd oN RaTcHeT & ClAnK. pHySiCaL ReLeAsEs fOr cOnSoLeS WiLl bE
+AvAiLaBlE In eUrOpE ThE SaMe dAy, WhIlE NoRtH AmErIcAn pHySiCaL ReLeAsEs
+wIlL Be aVaIlAbLe iN JaNuArY 2022.[83]
+
+oCtObEr 2020 AnD JaNuArY 2021 hAcKs
+iN MiD-OcToBeR 2020, A HaCkEr kNoWn aS "eRiS LoRiS" bEgAn tArGeTiNg mAiNlY
+NoRtH AmErIcAn sErVeRs. SeVeRaL PlAyErS On tHe aMoNg uS SuBrEdDiT AnD
+TwItTeR RePoRtEd tHiS PlAyEr hAcKiNg tHeIr lObBiEs aNd sPaMmInG In-gAmE
+ChAt wItH PrOmOtIoNs fOr hIs yOuTuBe cHaNnEl, LiNkS To hIs dIsCoRd sErVeR,
+aNd cOnTrOvErSiAl pOlItIcAl mEsSaGeS.[84] eRiS LoRiS AlSo tHrEaTeNeD
+To pErSoNaLlY HaCk pLaYeRs tHaT ReFuSeD To sUbScRiBe tO HiS YoUtUbE
+ChAnNeL. tHe dIsCoRd sErVeR HaS BeEn fOuNd tO CoNtAiN LaRgE AmOuNtS Of
+oFfEnSiVe cOnTeNt, SuCh aS RaCiSt lAnGuAgE, gOrE, pOrNoGrApHy aNd iMaGeS
+DePiCtInG AnImAl aBuSe.[85]
+
+a eUrOgAmEr rEpOrT FrOm oCtObEr 23, 2020, fEaTuReS An iNtErViEw wItH A
+PeRsOn cLaImInG To bE ErIs lOrIs, CoNdUcTeD ViA ThE DiScOrD SeRvEr fRoM
+OnE Of tHe lInKs pRoViDeD In tHe hAcKeD GaMeS. iN ThE InTeRvIeW, lOrIs
+cLaImS He cReAtEd tHe bOt rEsPoNsIbLe fOr tHe hAcKs "In oNlY SiX HoUrS",
+AnD HaD EnLiStEd uP To 50 VoLuNtEeRs tO FoRm a bOtNeT WhIcH BoOsTeD
+ThE StReNgTh oF ThEiR AtTaCkS. lOrIs cLaImEd tHaT ThE HaCk iMpAcTeD 4.9
+MiLlIoN PlAyErS In 1.5 mIlLiOn gAmEs. He aLsO AdDeD ThAt tHe hAcKs wErE
+PaRt oF A PuBlIcItY StUnT To iNfLuEnCe pLaYeRs tO VoTe fOr dOnAlD TrUmP
+In tHe 2020 UnItEd sTaTeS PrEsIdEnTiAl eLeCtIoN.[85]
+
+InNeRsLoTh aDdEd aN In-gAmE MeSsAgE WaRnInG PlAyErS AbOuT ThE HaCkS On
+oCtObEr 22,[85] aNd rElEaSeD A StAtEmEnT On tWiTtEr tHe nExT DaY. tHeY
+SaId tHeY WeRe "SuPeR AwArE" oF ThE HaCkInG IsSuE, aNd sTaTeD ThAt aN
+"eMeRgEnCy sErVeR UpDaTe" WoUlD Be pUsHeD OuT To cOmBaT ThE HaCkS. tHeY
+EnCoUrAgEd pLaYeRs tO StIcK To pRiVaTe gAmEs aNd tO AvOiD PlAyInG
+On pUbLiC OnEs uNtIl tHe uPdAtE WaS ReLeAsEd.[86] ThE TeAm pLaNs tO
+AdDrEsS ThE HaCkInG VuLnErAbIlItIeS As pArT Of a pLaNnEd oVeRhAuL FoR
+ThE GaMe.[56][57][58] At tHe eNd oF JaNuArY 2021, PlAyErS RePoRtEd oN
+TwItTeR ThE ReTuRn oF ErIs lOrIs' HaCk aTtAcK, wHiCh iS NoW DiStRiBuTiNg
+aMoNg uS ChEaTs.[87]
+
+pOpUlArItY
+2020 sPiKe
+sOdApOpPiN In a pUrPlE TwItCh hOoDiE
+SoDaPoPpIn, A StReAmEr, Is cReDiTeD WiTh pOpUlArIzInG AmOnG Us oN ThE
+LiVe-sTrEaMiNg pLaTfOrM TwItCh.
+WhIlE AmOnG Us rElEaSeD In 2018, iT WaS NoT UnTiL MiD-2020 tHaT It sAw
+a sUrGe oF PoPuLaRiTy, InItIaLlY DrIvEn bY CoNtEnT CrEaToRs oNlInE In
+sOuTh kOrEa aNd bRaZiL. bRoMaNdEr sTaTeD ThAt tHe gAmE Is mOrE PoPuLaR In
+mExIcO, bRaZiL, aNd sOuTh kOrEa tHaN ThE UnItEd sTaTeS.[38][5] AcCoRdInG
+To wIlLaRd, TwItCh sTrEaMeR SoDaPoPpIn fIrSt pOpUlArIzEd tHe gAmE On
+tWiTcH In jUlY 2020.[38] MaNy oThEr tWiTcH StReAmErS AnD YoUtUbErS
+FoLlOwEd sUiT, iNcLuDiNg pRoMiNeNt cOnTeNt cReAtOrS XqC, pOkImAnE,
+sHrOuD, nInJa, DiSgUiSeD ToAsT AnD PeWdIePiE.[54][88][35][89]
+
+ThE CoViD-19 pAnDeMiC WaS FrEqUeNtLy cItEd aS A ReAsOn fOr tHe
+pOpUlArItY Of aMoNg uS, aS It aLlOwEd fOr sOcIaLiZiNg dEsPiTe sOcIaL
+DiStAnCiNg.[38][90][91][92][93] EmMa kEnT Of eUrOgAmEr bElIeVeD ThAt tHe
+rElEaSe oF InNeRsLoTh's tHe hEnRy sTiCkMiN CoLlEcTiOn aLsO CoNtRiBuTeD
+To aWaReNeSs oF AmOnG Us,[54] AnD Pc gAmEr's wEs fEnLoN CrEdItEd tWiTcH
+StReAmEr sR_KaIf fOr "PrIm[iNg] AmOnG Us fOr iTs bIg mOmEnT." FeNlOn
+aLsO PrAiSeD AmOnG Us fOr iMpRoVeMeNtS OvEr oThEr pOpUlAr tAbLeToP GaMeS
+ThAt hAd bEeN InSpIrEd bY MaFiA, sUcH As sEcReT HiTlEr. He sAiD OtHeR
+ViDeO GaMe aDaPtAtIoNs oF MaFiA SuCh aS ToWn oF SaLeM AnD WeReWoLvEs
+wItHiN WeRe "JuSt aDd[iNg] An oNlInE InTeRfAcE FoR ThE BaSiC WeReWoLf
+rUlEs," wHeReAs aMoNg uS Is aS An eNtIrElY NeW TaKe oN ThE CoNcEpT.[35]
+aLoNg wItH FaLl gUyS AnD ThE JaCkBoX PaRtY PaCkS, aMoNg uS PrOvIdEd a
+nArRaTiVe-lEsS ExPeRiEnCe tHaT HeLpEd tO AvOiD ThE "cUlTuRaL TrAuMa"
+Of tHe pAnDeMiC, aCcOrDiNg tO M.J. lEwIs oF WiReD.[94]
+
+MeMeS AnD MoDs
+
+AmOnG Us cOsPlAyEr.
+ThE GaMe's pOpUlArItY CoNtInUeD InTo tHe fOlLoWiNg mOnThS. yOuTuBe
+rEpOrTeD ThAt vIdEoS AbOuT AmOnG Us wErE ViEwEd 4 bIlLiOn tImEs iN
+SePtEmBeR 2020,[95] AnD TiKtOk vIdEoS ReLaTeD To aMoNg uS HaD OvEr 13
+BiLlIoN ViEwS In oCtObEr 2020.[96] yOuTuBeR Cg5 WrOtE A SoNg bAsEd oN ThE
+GaMe iN SePtEmBeR 2020, TiTlEd "ShOw yOuRsElF", AnD GaInEd oVeR 60 mIlLiOn
+vIeWs iN FoUr mOnThS.[97][g] In sEpTeMbEr 2020, tHe gAmE ExCeEdEd 100
+mIlLiOn dOwNlOaDs[35] aNd iTs pLaYeR CoUnT RoSe tO 1.5 MiLlIoN CoNcUrReNt
+pLaYeRs[4][98] (nEaRlY 400 ThOuSaNd oF WhIcH WeRe oN StEaM),[46] ThEn
+pEaKeD At 3.8 mIlLiOn iN LaTe sEpTeMbEr.[99] ThE SuDdEn iNcReAsE In
+pLaYeRs oVeRlOaDeD ThE GaMe's sErVeR, wHiCh aCcOrDiNg tO WiLlArD WaS
+"a tOtAlLy fReE AmAzOn sErVeR, aNd iT WaS TeRrIbLe." tHiS FoRcEd hIm tO
+WoRk qUiCkLy, UnDeR CrUnCh tImE, tO ReSoLvE ThEsE IsSuEs.[42]
+
+iN AuGuSt 2020, iNnErSlOtH OpEnEd aN OnLiNe sToRe fOr aMoNg uS ThEmEd
+mErChAnDiSe.[7][30] tHe gAmE'S PoPuLaRiTy iNsPiReD MaNy oRiGiNaL SoNgS,
+fAn aRt aNd iNtErNeT MeMeS,[20][25][42] wIlLaRd eXpReSsEd tHaT FaN-CrEaTeD
+CoNtEnT "rEaLlY Is tHe bEsT PaRt" Of mAkInG AmOnG Us, AnD BrOmAnDeR CaLlEd
+iT "mY FaVoRiTe tHiNg tO SeE".[42] ThE GaMe pOpUlArIzEd tHe sLaNg wOrD
+"sUs" (mEaNiNg "SuSpIcIoUs" Or "SuSpEcT"),[100][101][102] WhIcH HaD
+BeEn uSeD BeFoRe tHe gAmE'S ReLeAsE.[103] OtHeR SlAnG TeRmS As wElL As
+iNtErNeT MeMeS PoPuLaRiZeD AnD InSpIrEd bY AmOnG Us iNcLuDe 'SuSsY' aNd
+'SuSsY BaKa' (dErIvEd fRoM "sUs"),[104][105] 'wHeN ThE ImPoStEr iS SuS'
+(An iRoNiC MeMe bAsEd oN AmOnG Us, UsUaLlY AlOnGsIdE An eDiTeD PhOtO Of
+jErMa985),[106][uSeR-GeNeRaTeD SoUrCe] AnD 'aMoGuS' (SaTiRiC MiSsPeLlInG
+Of "AmOnG Us").[107][108]
+
+dUrInG ItS TiMe oF WiDeSpReAd pOpUlArItY, aMoNg uS WaS CoNtRoVeRsIaLlY
+PlAyEd bY ThE U.S. nAvY EsPoRtS TeAm, In wHiCh pLaYeRs oN ThE StReAm uSeD
+In-gAmE NaMeS ReFeReNcInG ThE N-WoRd aNd tHe bOmBiNg oF NaGaSaKi. ThE
+StReAm wAs dEeMeD "oFfEnSiVe" AnD "iNtOlErAbLe" By sOmE ViEwErS.[109]
+In oCtObEr 2020, u.s. RePrEsEnTaTiVeS AlExAnDrIa oCaSiO-CoRtEz aNd iLhAn
+oMaR StReAmEd tHe gAmE AlOnGsIdE SeVeRaL OtHeR PrOmInEnT StReAmErS SuCh
+aS PoKiMaNe aNd hAsAn pIkEr aS A WaY To eNcOuRaGe pEoPlE To vOtE In
+tHe 2020 UnItEd sTaTeS PrEsIdEnTiAl eLeCtIoN, dRaWiNg aLmOsT 700,000
+CoNcUrReNt vIeWeRs oN TwItCh.[110][111][112]
+
+ThE GaMe aLsO ReCeIvEd sEvErAl mOdS MaDe bY ThE CoMmUnItY, wHiCh aDdEd
+nEw rOlEs, GaMe mOdEs, CoSmEtIcS, eTc.[113] aMoNg uS WaS AlSo fEaTuReD
+In tWiTcH RiVaLs 2020, aN OnLiNe gAmInG ToUrNaMeNt wHiCh wAs hElD On
+dEcEmBeR 4, 2020.[114] DuRiNg tHe eVeNt, PlAyErS WeRe aBlE To rEcEiVe
+aN ExClUsIvE PeT CaLlEd "GlItCh pEt", wHiCh iS ThE TwItCh lOgO.[115]
+
+mAnGa
+oN DeCeMbEr 28, 2021, h2 InTeRaCtIvE, wHo pUbLiShEs aMoNg uS In jApAn,
+AnNoUnCeD ThAt a oNe-sHoT MaNgA BaSeD On tHe gAmE WiLl bE PuBlIsHeD
+In bEsSaTsU CoRoCoRo's aPrIl iSsUe oN FeBrUaRy 28, 2022.[116][117]
+oN JaNuArY 13, InNeRsLoTh bEgAn pRoMoTiNg tHe mAnGa oN ThEiR OfFiCiAl
+tWiTtEr aCcOuNt.[118]
+
+ReCePtIoN
+ReCePtIoN
+AgGrEgAtE ScOrE
+AgGrEgAtOr	sCoRe
+mEtAcRiTiC	Pc: 85/100[119]
+SwItCh: 79/100[120]
+ReViEw sCoReS
+PuBlIcAtIoN	ScOrE
+4pLaYeRs	68/100[121]
+gAmE InFoRmEr	8/10[122]
+iGn	9/10[124]
+jEuXvIdEo.cOm	14/20[123]
+NiNtEnDo lIfE	8/10[125]
+PcMaG	4/5 (iOs)[126]
+pUsH SqUaRe	7/10[127]
+aMoNg uS WaS WeLl rEcEiVeD By cRiTiCs. On tHe aGgReGaToR WeBsItE
+MeTaCrItIc, ThE Pc pOrT ReCeIvEd a 85 Of 100 sCoRe bAsEd oN 9 CrItIc
+rEvIeWs, WhIlE ThE NiNtEnDo sWiTcH VeRsIoN ReCeIvEd a 79 Of 100 sCoRe
+bAsEd oN 9 CrItIc rEvIeWs, BoTh tHeM InDiCaTiNg "GeNeRaLlY FaVoRaBlE
+ReViEwS".[119][120] It wAs aLsO CoNsIdErEd oNe oF ThE "bEsT Pc gAmEs
+fOr 2018", BeInG RaNkEd 17tH, aNd aS ThE "#38 bEsT DiScUsSeD Pc gAmE Of
+2018".[128][129] SiNcE DeCeMbEr 2020, iGn cOnSiDeReD It oNe oF 2020's
+bEsT ReViEwEd gAmEs sO FaR.[130]
+
+eLlIoTt oSaNgE Of bOnUs sTaGe cOnSiDeReD ThAt tHe gAmE Is "SiLlY FuN",
+BuT FeLt tHaT Is mOrE FuN "tO Be aN ImPoStOr".[131] CrAiG PeArSoN Of rOcK,
+pApEr, ShOtGuN HaD ThE SaMe oPiNiOn, FoUnD PlAyInG As aN ImPoStOr "A LoT
+MoRe fUn" ThAn pLaYiNg aS A CrEwMaTe, WhIcH He cAlLeD "eXhAuStInG".[19]
+In rEfErEnCe tO ThE GaMe's pOpUlArItY AmOnG StReAmErS, eVeLyN LaU Of
+tHe nAtIoNaL SaId: "wAtChInG ThE ReAcTiOnS Of pEoPlE TrYiNg tO GuEsS
+WhO ThE ImPoStOr iS (aNd sOmEtImEs gEtTiNg iT VeRy wRoNg) Or lYiNg
+tErRiBlY AbOuT NoT BeInG ThE ImPoStOr iS AlL QuItE EnTeRtAiNiNg."[18]
+aLiCe o'cOnNeR Of rOcK, pApEr, ShOtGuN DeScRiBeD ThE GaMe aS "mAfIa oR
+WeReWoLf bUt wItH MiNiGaMeS".[132] aNdReW PeNnEy oF ThEgAmEr sAiD ThE
+GaMe wAs "WoRtH It fOr tHe pRiCe" AnD ThAt "WhO YoU PlAy wItH DiCtAtEs
+hOw fUn tHe gAmE Is."[23] l'aViS De tIrAxA Of jEuXvIdEo.cOm pRaIsEd tHe
+gAmE'S FrEePlAy mOdE, wHiCh oFfErS NeWeR PlAyErS "tO BrOwSe tHe mAp aLoNe
+tO AcCoMmOdAtE ThE PlAcEs", aS ThEy wOuLd nEeD To pLaY SeVeRaL GaMeS In
+oRdEr tO "pErFeCt tHeIr sTrAtEgIeS".[123]
+
+LeAnA HaFeR FrOm iGn sTaTeD In hEr vErDiCt oN ThE GaMe: "i dOn't hAvE
+AnY SuS ThAt tHiS WiLl bE ThE LaSt gAmE Of iTs bReEd tO MaKe a sPlAsH,
+sInCe wE’Re aLrEaDy sEeInG ItS InFlUeNcE On eVeN MeGa-gAmEs lIkE
+FoRtNiTe". aS A NeGaTiVe pOiNt, ShE PoInTeD OuT SoMe tEcHnIcAl pRoBlEmS,
+sUcH As tHe dIfFiCuLtY Of fInDiNg rOoMs tHaT ArEn't aLrEaDy fUlL Or aRe
+a lOnG WaY FrOm gEtTiNg tHeRe. ShE AlSo lAmEnTeD ThE LaCk oF "mEcHaNiC
+To pUnIsH PlAyErS WhO RaGe-qUiT WhEn tHeY DoN'T GeT To pLaY As iMpOsToR,
+oR ArE CaUgHt dEaD To rIgHtS In tHe mIdDlE Of a mUrDeR".[124] tIrAxA Of
+jEuXvIdEo.cOm wAs mOrE CrItIcAl oF ThE GaMe, LaMeNtInG ThE LaCk oF An
+iNbUiLt vOiCe cHaT, sErVeR BuGs wHiCh "[pReVeNt] SoMe fRoM JoInInG ThE
+PaRtY, iN A ToTaLlY UnExPlAiNeD WaY", PuBlIc sErVeRs wItH StRaNgErS, wHiCh
+sHe cOnSiDeReD "lEsS EnTeRtAiNiNg" ThAn pRiVaTe sErVeRs wItH FrIeNdS,
+aNd tHe lArGe dEvElOpMeNt pRoGrEsS, sTaTiNg tHaT ThE GaMe hAs a "BiT Of a
+wAy tO Go bEfOrE It rEaChEs iTs fUlL PoTeNtIaL".[123] tHe mObIlE VeRsIoN
+Of tHe gAmE, aLtHoUgH BeInG FrEe-tO-PlAy, WaS CrItIcIzEd. OsAnGe oF BoNuS
+StAgE CaLlEd tHe pReSeNcE Of aDs aNd iN-ApP PuRcHaSeS Of cOsMeTiC ChAnGeS
+ThAt aRe mOsTlY AvAiLaBlE FoR FrEe oN ThE Pc vErSiOn "NoNsEnSe". hE AlSo
+cAlLeD ThE Pc vErSiOn "StAbLe" BuT AlSo sTaTeD ThAt tHe aNdRoId vErSiOn iS
+"a dEvIcE-By-dEvIcE SiTuAtIoN".[131]
+
+ThE NiNtEnDo sWiTcH VeRsIoN ReCeIvEd sOmE CrItIcIsM. wIlLiAm aNtOnElLi oF
+InSiDeR SaId tHaT ThE SwItCh cOnTrOlS GiVe "MaNy tAsKs a sAtIsFyInG GaMe
+rEsPoNsE". HoWeVeR, hE AlSo sTaTeD ThAt mOsT Of tHe tAsKs cOuLd bE "dOnE
+QuIcKlY WiTh tHe sWiTcH'S ToUcHsCrEeN CoNtRoL", WhIcH CaN OnLy bE UsEd
+wHeN ThE CoNsOlE Is iN HaNdHeLd mOdE. hE NoTeD ThAt mAnY Of tHe gAmE'S
+TaSkS ArE DiFfIcUlT To cOmPlEtE UsInG A GaMePaD, wHiCh iS ReQuIrEd wHeN
+ThE CoNsOlE Is cOnNeCtEd tO A LaRgEr sCrEeN, aNd cOnSiDeReD ThIs vErSiOn
+"InFeRiOr" To tHe pC AnD MoBiLe vErSiOnS.[133] He aLsO StAtEd tHaT ThE
+CoMmUnIcAtIoN SyStEm iS "fRuStRaTiNg", aS UsInG ThE JoYsTiCk tO SeLeCt
+lEtTeRs iS "sLoW", AnD SaId tHe fAcT ThAt tHe gAmE HaS SuPpOrT FoR
+MuLtIpLaYeR AcRoSs mUlTiPlE PlAtFoRmS GiVeS SwItCh pLaYeRs "ImMeDiAtE
+DiSaDvAnTaGe".[133] Pj o'rEiLlY Of nInTeNdO LiFe nOtEd tHaT ThE SwItCh
+lAcKeD MuCh oF ThE AdDiTiOnAl cOnTeNt aVaIlAbLe oN OtHeR PlAtFoRmS,
+sUcH As sKiNs, WhIcH He cAlLeD A "sHaMe".[125]
+
+aMoNg uS HaS BeEn fReQuEnTlY CoMpArEd tO FaLl gUyS, aS BoTh bEcAmE
+PoPuLaR As pArTy gAmEs dUrInG ThE CoViD-19 pAnDeMiC;[38][29][134]
+ThE DeVeLoPeRs oF BoTh gAmEs hAvE PoSiTiVeLy aCkNoWlEdGeD EaCh oThEr oN
+TwItTeR.[135][136] cOmPaRiSoNs hAvE AlSo bEeN DrAwN BeTwEeN ThE TwO GaMeS'
+aVaTaRs, WhIcH HaVe bEeN SaId tO LoOk lIkE JeLlY BeAnS.[137][138] aMoNg
+uS HaS AlSo bEeN CoMpArEd tO ThE ThInG,[25][139] ToWn oF SaLeM,[35][139]
+WeReWoLvEs wItHiN,[35] aNd sEcReT HiTlEr.[35]
+
+sAlEs
+aS Of sEpTeMbEr 2020, sTeAm sPy eStImAtEd tHaT ThE GaMe hAd mOrE ThAn 10
+MiLlIoN OwNeRs oN StEaM.[140] ThE AsSoCiAtEd pReSs nOtEd tHe gAmE WaS ThE
+MoSt dOwNlOaDeD ApP On tHe iOs aPp sToRe fOr bOtH IpHoNeS AnD IpAdS In
+oCtObEr 2020.[141] AcCoRdInG To sUpErDaTa rEsEaRcH, tHe gAmE HaD RoUgHlY
+500 MiLlIoN PlAyErS WoRlDwIdE As oF NoVeMbEr 2020, wItH ThE FrEe-tO-PlAy
+mObIlE VeRsIoN AcCoUnTiNg fOr 97% oF PlAyErS AnD ThE BuY-To-pLaY Pc
+vErSiOn aCcOuNtInG FoR 3% oF PlAyErS, tHoUgH It wAs tHe bUy-tO-PlAy pC
+VeRsIoN ThAt gEnErAtEd 64% oF ThE GaMe's gRoSs rEvEnUe.[142] aMoNg uS
+BeCaMe oNe oF ThE BeSt sElLiNg gAmEs oF 2020 oN StEaM, bEiNg lIsTeD On
+tHe pLaTiNuM CaTeGoRy oN "tHe yEaR'S ToP 100" lIsT.[143][144] tHe nInTeNdO
+SwItCh vErSiOn's lAuNcH SoLd 3.2 mIlLiOn dIgItAl uNiTs iN DeCeMbEr 2020,
+mAkInG It tHe hIgHeSt-eArNiNg vErSiOn oF ThE GaMe fOr tHe mOnTh aNd oNe
+oF ThE BeSt-sElLiNg gAmEs oN ThE NiNtEnDo sWiTcH.[145][146]
+
+AmOnG Us wAs oFfErEd aS A FrEe gAmE On tHe ePiC GaMeS StOrE DuRiNg oNe
+wEeK In mAy 2021. iTs aVeRaGe dAiLy pLaYeR CoUnT JuMpEd fRoM ArOuNd
+350,000 pLaYeRs iN ThE WeEkS BeFoRe tO OvEr 2 mIlLiOn pLaYeRs dUrInG
+ThE GiVeAwAy.[147] oN JuNe 29, 2021, iNnErSlOtH RePoRtEd oN TwItTeR
+ThAt dUrInG ThE GaMe's fReE PrOmOtIoN On ePiC GaMeS StOrE, aT LeAsT 15
+mIlLiOn cOpIeS WeRe cLaImEd.[148]
+
+AwArDs
+aWaRd	dAtE Of cErEmOnY	CaTeGoRy	rEsUlT	ReF.
+gOlDeN JoYsTiCk aWaRdS 2020	nOvEmBeR 24, 2020	bReAkThRoUgH
+AwArD	   wOn	   [149]
+ThE GaMe aWaRdS 2020	dEcEmBeR 10, 2020	bEsT MoBiLe gAmE
+WoN	[150][151]
+bEsT MuLtIpLaYeR GaMe	wOn
+sTeAm aWaRdS 2020	jAnUaRy 3, 2021 lAbOr oF LoVe aWaRd	nOmInAtEd
+[152][153]
+NiCkElOdEoN KiDs' ChOiCe aWaRdS MaRcH 13, 2021	fAvOrItE ViDeO GaMe
+wOn	[154]
+wEbBy aWaRdS 2021	mAy 18, 2021	BrEaKoUt oF ThE YeAr	wOn
+[155][156]
+MoBiLe gAmEs aWaRdS	JuLy 20, 2021	BeSt iNdIe dEvElOpEr	wOn
+[157][158]
+InTeRnAtIoNaL GaMe dEvElOpErS AsSoCiAtIoN	AuGuSt 27, 2021 CoMmUnItY
+MaNaGeMeNt    WoN     [159]
+ApP StOrE AwArDs	dEcEmBeR 2, 2021	CoNnEcTiOnS	WoN
+[160]
+BrItIsH AcAdEmY GaMeS AwArDs	aPrIl 7, 2022	eVoLvInG GaMe	nOmInAtEd
+[161]
+lEgAcY
+AmOnG Us hAs dOnE CoLlAbOrAtIoNs aNd cRoSs-oVeRs wItH OtHeR GaMeS
+AnD StUdIoS. tHe fIrSt gAmE ThEy cOlLaBoRaTeD WiTh wAs fAlL GuYs, WhO
+AdDeD AmOnG Us-tHeMeD SkInS To tHeIr gAmE.[162] ChArAcTeRs fRoM AmOnG
+Us hAvE MaDe cAmEoS In tHe iNdIe gAmEs aStRoNeEr,[163] sUnShInE HeAvY
+InDuStRiEs,[164] cOsMoNiOuS HiGh,[165] aNd sAmUrAi gUnN 2,[166] AnD AmOnG
+Us iS ReFeReNcEd iN SeVeRaL StIcKeRs iN ThE GaMe a hAt iN TiMe.[167]
+sEvErAl aMoNg uS-ThEmEd cArDs aRe iNcLuDeD In tHe bInDiNg oF IsAaC:
+fOuR SoUlS ReQuIeM.[168]
+
+tHeMeD SkInS AnD CoSmEtIcS FrOm oThEr gAmEs aNd pRoPeRtIeS HaVe bEeN
+AdDeD To aMoNg uS As wElL: iNnErSlOtH AnD RiOt gAmEs cRoSsEd-oVeR To bRiNg
+aRcAnE ThEmEd cOsMeTiCs tO AmOnG Us.[169] iN AdDiTiOn tO ThAt iNnErSlOtH
+HaS AlSo dOnE CrOsSoVeRs wItH HaLo,[170] rAtChEt & cLaNk,[171] aNd tHe
+mOvIe fRaNcHiSe sCrEaM.[172]
+
+oUtSiDe oF ThE GaMe iTsElF InNeRsLoTh hAs cOlLaBoRaTeD WiTh bT21,[173] AnD
+AmOnG Us-tHeMeD PoStErS WeRe uSeD To aDvErTiSe tHe mOvIe fReE GuY.[174]
+ThE "eJeCtEd" AnImAtIoN WaS ReFeReNcEd iN ThE SeAsOn 2 tRaIlEr fOr tHe
+aNiMaTeD SeRiEs sNoOpY In sPaCe,[175] aNd tHe eMeRgEnCy mEeTiNg sCrEeN
+WaS UsEd iN In sPaCe wItH MaRkIpLiEr.[176] aMoNg uS WaS AlSo fEaTuReD
+As a qUeStIoN On jEoPaRdY![177]
+
+ePiC GaMeS FeAtUrEd a cOmMuNiTy-cReAtEd gAmE MoDe iN FoRtNiTe cReAtIvE In
+dEcEmBeR 2020 cAlLeD "tHe sPy wItHiN", WhIcH HaD VeRy sImIlAr mEcHaNiCs tO
+AmOnG Us, In wHiCh aMoNg tEn pLaYeRs, ThE OtHeRs hAvE To cOmPlEtE TaSkS
+To eArN EnOuGh cOiNs wItHiN A LiMiTeD TiMe wHiLe tRyInG To dEdUcE WhIcH
+TwO PlAyErS ArE TrYiNg tO SaBoTaGe tHaT EfFoRt.[178] ePiC LaTeR AdDeD
+AnOtHeR (oFfIcIaL AnD InTeRnAlLy-dEvElOpEd) LiMiTeD MoDe tO FoRtNiTe
+cAlLeD "iMpOsToRs" In aUgUsT 2021, WhIcH WaS ReCoGnIzEd aS EvEn a cLoSeR
+TaKe oN AmOnG Us, As tHe sAmE BaSiC MeChAnIcS As "ThE SpY WiThIn" WeRe
+uSeD, bUt nOw tAkInG PlAcE WiThIn aN UnDeRgRoUnD BuNkEr wItH A LaYoUt
+sImIlAr tO ThE AmOnG Us mAp. InNeRsLoTh rEsPoNdEd iN FrUsTrAtIoN To
+tHiS MoDe, WhIcH GaVe nO CrEdIt tO InNeRsLoTh. InNeRsLoTh's cO-FoUnDeR
+MaRcUs bRoMaNdEr sTaTeD "iS It rEaLlY ThAt hArD To pUt 10% mOrE EfFoRt
+iNtO PuTtInG YoUr oWn sPiN On iT ThOuGh?", WhIlE StUdIo rEpReSeNtAtIvE
+CaLlUm uNdErWoOd sAiD ThAt iNnErSlOtH WaS OpEn tO CoLlAbOrAtIoNs,
+"jUsT AsK AnD If yOu fOlLoW SoMe bAsIc rUlEs iT'S UsUaLlY FiNe".[179]
+In aN OcToBeR 2021 bLoG PoStInG, ePiC GaMeS DiD CrEdIt iNnErSlOtH AnD
+AmOnG Us aS InSpIrAtIoNs fOr tHe "ImPoStOrS" mOdE.[180]
